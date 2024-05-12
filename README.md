@@ -4,10 +4,11 @@
 This project utilizes the Word2Vec model to generate and analyze word embeddings using PyTorch. The focus is on understanding how different configurations impact the quality of embeddings and applying these embeddings in an attention-based classifier. This repository includes Python notebooks for training, analysis, and classification tasks.
 
 ## Project Structure
-WORD2VEC
-├── Attention Classifier Pytorch.ipynb # Notebook for classification using attention mechanism
-├── Word2Vec Pytorch.ipynb # Notebook for training the Word2Vec model
-├── Word2vec vector analysis-1.ipynb # Notebook for analyzing the vector embeddings
+
+### WORD2VEC
+- Attention Classifier Pytorch.ipynb # Notebook for classification using attention mechanism
+- Word2Vec Pytorch.ipynb # Notebook for training the Word2Vec model
+- Word2vec vector analysis-1.ipynb # Notebook for analyzing the vector embeddings
 
 
 ## Features
